@@ -21,7 +21,7 @@ function Navbar() {
 
                 {/* Logo */}
                 <div>
-                    <img src="/src/assets/logo-text.png" alt="logo image" />
+                    <img src="/logo-text.png" alt="logo image" />
                 </div>
 
                 {/* Desktop Navigation */}

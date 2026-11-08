@@ -10,7 +10,7 @@ function Footer() {
           <div className="space-y-4 max-w-xs">
 
             <img
-              src="/src/assets/logo-text.png"
+              src="/logo-text.png"
               alt="Dev Stack logo"
               className="w-40 object-contain"
             />

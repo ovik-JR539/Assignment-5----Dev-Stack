@@ -37,7 +37,7 @@ function Herocotain() {
                 </div>
 
                 <img
-                    src="src/assets/banner-stack.png"
+                    src="/banner-stack.png"
                     alt="Dev Stack Builder banner"
                     className="w-full md:w-[500px] object-contain"
                 />
